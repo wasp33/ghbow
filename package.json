@@ -1,0 +1,24 @@
+{
+  "name": "gh-bownow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasp33/ghbow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasp33/ghbow/issues"
+  },
+  "homepage": "https://github.com/wasp33/ghbow#readme",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
